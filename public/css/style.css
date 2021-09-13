@@ -1,0 +1,22 @@
+.section {
+	width: 80%;
+	background-color: antiquewhite;
+	border: 2px solid darksalmon;
+	border-radius: 10px;
+	margin: 10px 10%;
+}
+ul {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	list-style-type: none;
+}
+li {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+a {
+	font-size: 20px;
+	font-family: Cursive;
+}
